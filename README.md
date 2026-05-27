@@ -1,3 +1,9 @@
+
+
+                                                   Hello Folks 
+                                                Welcome To My World 
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Writing reusable Terraform modules and scaling containerized applications.<br><br>👯 I’m looking to collaborate on: Multi-cloud infrastructure deployment strategies and automated security compliance.<br><br>🤝 I’m looking for help with: Deep-dive Prometheus and Grafana monitoring setups for microservices.<br><br>🌱 I’m currently learning: Azure DevOps, Helm charts, and DevSecOps automated scanning tools.<br><br>💬 Ask me about: Linux administration, Terraform, Kubernetes, and Cloud security.<br><br>⚡ Fun fact: My favorite keyboard shortcut is Ctrl + Z, but unfortunately, it doesn't work on broken production environments.
 
